@@ -155,6 +155,8 @@ https://doi.org/10.1257%2Fjep.38.2.201
 
 https://doi.org/10.1257%2Fjep.38.2.181
 
+https://doi.org/10.1093/jla/laz001 [Here or elsewhere?]
+
 
 
 ## Week 9 (May 27/29): Machine Learning and Experimentation
