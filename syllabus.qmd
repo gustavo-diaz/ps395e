@@ -19,7 +19,7 @@ fontsize: 12pt
 <!-- Remember double space for line skip -->
 **Instructor:** Gustavo Diaz (he/him/his)  
 **Email:** <gustavo.diaz@northwestern.edu>  
-**Lecture:**  TBD
+**Lecture:**  TBD  
 **Canvas:** TBD  
 **Student Hours:** Thursday 2:00 -- 4:00pm, Scott Hall 103 or [by appointment](https://calendly.com/gustavo-diaz-nu/meetings)
 
@@ -59,45 +59,114 @@ This course follows the [Northwestern University Syllabus Standards](https://www
 
 # Schedule
 
+<!-- Check Out Marbach course -->
+<!-- https://www.moritz-marbach.com/PUBL0097/ -->
+
 [TBD if I can change it back to once a week]
 
 <!-- Save this because it also applies to ps210 -->
-## Week 1
-Thursday, April 3
+## Week 1 (Thursday, April 3): EITHER NO CLASS OR GET TO KNOW EACH OTHER MEETING
 
-## Week 2
+## Week 2 (April 8/10): The Evidence-Informed Movement
 
-Tuesday, April 8 [CODEX]
-Thursday, April 10
+<!-- Codex is not April 8 but I should be able to make it -->
 
-## Week 4
-Tuesday, April 15
-Thursday, April 17
+https://doi.org/10.1016/B978-0-444-51787-6.50008-8
 
-## Week 5
-Tuesday, April 22
-Thursday, April 24
 
-## Week 6
-Tuesday, April 29
-Thursday, May 1
+https://doi.org/10.1146/annurev-polisci-050517-124041
 
-## Week 7
-Tuesday, May 6
-Thursday, May 8
+https://www.jstor.org/stable/43314516
 
-## Week 8
-Tuesday, May 13
-Thursday, May 15
+https://doi.org/10.1177/237946151500100209
 
-## Week 9
-Tuesday, May 20
-Thursday, May 22
 
-## Week 10
-Tuesday, May 27
-Thursday, May 29
 
-## Week 11
-Tuesday, June 3 (WCAS reading week starts on June 4)
-Thursday, June 5
+
+## Week 3 (April 15/17): Randomized Controlled Trials
+
+[Intro piece]
+
+https://www.aeaweb.org/articles?id=10.1257/jep.31.4.73
+
+[Jae Yeon Kim application]
+
+## Week 4 (April 22/24): Learning from Experimentation
+
+https://doi.org/10.1016/j.socscimed.2017.12.005
+
+https://doi.org/10.1353/pbm.0.0088
+
+https://www.aeaweb.org/articles?id=10.1257/aer.20190830
+
+https://dx.doi.org/10.2139/ssrn.3648321
+
+https://doi.org/10.31222/osf.io/ysv2u
+
+
+## Week 5 (April 29/May 1): Advanced Experimental Designs
+
+Topics will include:
+
+- Adjusting treatment effects to population
+
+- Coordinated trials
+
+- Staggered adoption
+
+- Adaptive-experimentation
+
+
+
+## Week 6 (May 6/8): A Big Picture of Big Data
+
+[Maybe some chapters from ISL?]
+
+https://doi.org/10.1146/annurev-polisci-090216-023229
+
+<!-- Olivella tree based methods in political science  -->
+
+https://doi.org/10.1126/science.aaf7894
+
+
+
+## Week 7 (May 13/15): Big Data to Help
+
+https://doi.org/10.1093/jla/laz001
+
+<!-- [Imai paper on helping judges make decisions] -->
+https://doi.org/10.1126/science.aaf7894
+
+https://doi.org/10.1126/science.aao4408
+
+https://doi.org/10.1038%2Fs41586-020-03136-0
+
+
+## Week 8 (May 20/22): Big Data to Harm
+
+<!-- Algorithmic bias/fairness -->
+https://doi.org/10.1126/sciadv.aao5580
+
+https://doi.org/10.3217%2F978-3-85125-668-0-16
+
+https://doi.org/10.1080/0960085X.2021.1960905
+
+https://doi.org/10.1257%2Fjep.38.2.201
+
+https://doi.org/10.1257%2Fjep.38.2.181
+
+
+
+## Week 9 (May 27/29): Machine Learning and Experimentation
+
+<!-- Super fancy stuff  -->
+
+https://www.jstor.org/stable/23566518 (or more recent triple machine learning stuff)
+
+https://doi.org/10.1038/s41562-023-01589-7
+
+https://doi.org/10.1073/pnas.2318127122 Maybe?
+
+## Week 10 (June 3/5): WCAS Reading Week Starts on June 4
+
+TBD Depending on updates schedule
