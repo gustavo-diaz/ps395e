@@ -116,7 +116,11 @@ Topics will include:
 
 - Adaptive-experimentation
 
+https://www.nature.com/articles/s41562-023-01810-7
 
+https://onlinelibrary.wiley.com/doi/10.1111/ajps.12597
+
+https://mollyow.shinyapps.io/adaptive/
 
 ## Week 6 (May 6/8): Data Science for Good
 
@@ -161,7 +165,7 @@ https://doi.org/10.1093/jla/laz001 [Here or elsewhere?]
 
 
 
-## Week 9 (May 27/29): Large Language Models
+## Week 9 (May 27/29): Generative AI
 
 <!-- Super fancy stuff  -->
 
@@ -170,6 +174,8 @@ https://www.jstor.org/stable/23566518 (or more recent triple machine learning st
 https://doi.org/10.1038/s41562-023-01589-7
 
 https://doi.org/10.1073/pnas.2318127122 Maybe?
+
+https://www.journals.uchicago.edu/doi/10.1086/735504
 
 ## Week 10 (June 3/5): WCAS Reading Week Starts on June 4
 
