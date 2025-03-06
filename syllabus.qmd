@@ -118,7 +118,7 @@ Topics will include:
 
 
 
-## Week 6 (May 6/8): A Big Picture of Big Data
+## Week 6 (May 6/8): Data Science for Good
 
 [Maybe some chapters from ISL?]
 
@@ -130,7 +130,7 @@ https://doi.org/10.1126/science.aaf7894
 
 
 
-## Week 7 (May 13/15): Big Data to Help
+## Week 7 (May 13/15): Data Science for Evil
 
 https://doi.org/10.1093/jla/laz001
 
@@ -141,8 +141,10 @@ https://doi.org/10.1126/science.aao4408
 
 https://doi.org/10.1038%2Fs41586-020-03136-0
 
+https://mbosley.github.io/papers/ai-prejudice-paper.pdf
 
-## Week 8 (May 20/22): Big Data to Harm
+
+## Week 8 (May 20/22): AI and Experiments
 
 <!-- Algorithmic bias/fairness -->
 https://doi.org/10.1126/sciadv.aao5580
@@ -159,7 +161,7 @@ https://doi.org/10.1093/jla/laz001 [Here or elsewhere?]
 
 
 
-## Week 9 (May 27/29): Machine Learning and Experimentation
+## Week 9 (May 27/29): Large Language Models
 
 <!-- Super fancy stuff  -->
 
