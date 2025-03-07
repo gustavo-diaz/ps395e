@@ -19,33 +19,67 @@ fontsize: 12pt
 <!-- Remember double space for line skip -->
 **Instructor:** Gustavo Diaz (he/him/his)  
 **Email:** <gustavo.diaz@northwestern.edu>  
-**Lecture:**  TBD  
+**Lecture:**  Tues/Thurs 2:00 – 3:20pm, Scott Hall 201 Ripton Room  
 **Canvas:** TBD  
-**Student Hours:** Thursday 2:00 -- 4:00pm, Scott Hall 103 or [by appointment](https://calendly.com/gustavo-diaz-nu/meetings)
+**Student Hours:** Wednesday 2:00 -- 4:00pm, Scott Hall 103 or [by appointment](https://calendly.com/gustavo-diaz-nu/meetings)
 
 # Course Overview
 
-TBD
+This seminar explores how evidence generated from statistical research methods can be used to inform decision-making in academia, government, and industry. We will examine the merits and pitfalls of contemporary tools in experimentation and data science when it comes to policy evaluation or or justifying organizational change. We will learn that connecting evidence to decisions often requires additional language and argumentation, which will lead us to more advanced techniques designed specifically to inform decision-making with minimal assumptions.
+
+## Topics
+
+[HERE TABLE WITH LINKS TO EACH WEEK]
 
 # Learning Objectives
 
-TBD
+- Understand how evidence drawn from statistical research methods can be used to inform decision-making in academia, government, and industry
+
+- Acquire new language to engage in conversations about evidence-informed decision-making in a broad set of domains
+
+- Practice discussing and writing about the application of new methods in quantitative and computational social science
 
 
 # Requirements
 
-TBD some methods class
+POLI_SCI 210 or POLI_SCI 312 or equivalent experience with research design or data analysis.
 
 # Required Reading
 
-TBD 
+There is **no required textbook** for this course. Instead, readings for each are linked in the schedule below. All readings are available online for free or through university library subscription. 
 
+**Readings are listed by intended reading order**
+
+Readings for each week are divided by **theory** and **applications** of the methods, techniques, approaches, or issues we will discuss that week. In some weeks, we will discuss the theory first and applications second. In weeks in which the technical details are more dense, we will discuss applications first and theory second.
+
+Since we are a small group, we can discuss division of labor arrangements to make sure that every reading is covered in extensive detail. You are still expected to be (at least) familiar with every assigned reading.
+
+# Evaluation
+
+Your final grade in this course will depend on the following: 
+
+- Participation
+
+- Discussion leading
+
+- Discussion memos
+
+- Final project: Pre-registration plan OR data exploration paper
+
+<!-- OSF prereg template -->
+<!-- https://docs.google.com/document/d/1DaNmJEtBy04bq1l5OxS4JAscdZEkUGATURWwnBKLYxk/edit?tab=t.0 -->
+
+## Participation
+
+## Discussion leading
+
+## Discussion memos
 
 # Grading
 
 This course uses a labor-based grading agreement, commonly known as contract grading. In this course, instead of being given a final grade based on how “good” your submitted assignments are, your final grade will be based on the amount of work you put into the course. The goal is to decouple grades from performance and emphasize learning and effort.
 
-TBD more details
+You will get
 
 
 
@@ -59,52 +93,89 @@ This course follows the [Northwestern University Syllabus Standards](https://www
 
 # Schedule
 
-<!-- Check Out Marbach course -->
-<!-- https://www.moritz-marbach.com/PUBL0097/ -->
-
-[TBD if I can change it back to once a week]
+<!-- People analytics class at Stanford -->
+<!-- https://web.stanford.edu/~amirgo/teachmaterials/HRMGT%20203%20S19%20Course%20Description.pdf -->
 
 <!-- Save this because it also applies to ps210 -->
-## Week 1 (Thursday, April 3): EITHER NO CLASS OR GET TO KNOW EACH OTHER MEETING
+## Week 1 (Thursday, April 3): Preliminaries
+
+### Watch before meeting
+
+- Gravert, Christina. ["Why we need evidence-based decisions in every business."](https://youtu.be/wKJPzHCLkTU?si=24bpF72tVlKgMz0x) TEDxManchester (15 minutes)
+
+- Goldberg, Amir. ["Class Takeaways -- People Analytics."](https://youtu.be/mrT9NdLtKVk?si=-VTYMABfxXr18yWw) Stanford Graduate School of Business (5 minutes)
+
+
 
 ## Week 2 (April 8/10): The Evidence-Informed Movement
 
 <!-- Codex is not April 8 but I should be able to make it -->
 
-https://doi.org/10.1016/B978-0-444-51787-6.50008-8
+### Theory
 
+- Bluhm, Robyn and Kristin Borgerson. 2011. ["Evidence-Based Medicine."](https://doi.org/10.1016/B978-0-444-51787-6.50008-8) In *Philoshophy of Medicine*, pp. 203-238
 
-https://doi.org/10.1146/annurev-polisci-050517-124041
+- Bowers, Jake and Paul Testa. 2019. ["Better Government, Better Science: The Promise of and Challenges Facing the Evidence-Informed Policy Movement."](https://doi.org/10.1146/annurev-polisci-050517-124041) *Annual Review of Political Science* 22: 521-542
 
-https://www.jstor.org/stable/43314516
+- Samii, Cyrus. 2023. ["Methodologies for 'Political Science as Problem Solving.'"](http://bit.ly/3FblFmc) Forthcoming in *Oxford Handbook of Methodological Pluralism*
 
-https://doi.org/10.1177/237946151500100209
+### Applications
 
+- Grant, Adam. 2019. ["The Surprising Value of Obvious Insights."](http://turing.library.northwestern.edu/login?url=https://www.proquest.com/scholarly-journals/surprising-value-obvious-insights/docview/2207931254/se-2?accountid=12861) *MIT Sloan Management Review* 60 (3): 8-10
 
+- Congdon, William J. and Maya Shankar. 2015. ["The White House Social & Behavioral Sciences Team: Lessons learned from year one."](https://doi.org/10.1177/237946151500100209) *Behavioral Science & Policy* 1 (2): 77-86
+
+- Kleibrin, Alexander and Edurne Magro. 2018. ["The making of responsive innovation policies: varieties of evidence and their contestation in the Basque Country."](https://doi.org/10.1057/s41599-018-0136-2) *Palgrave Communications* 4: 74
+
+- Walker, Carl, Ewen Speed, and Danny Taggart. 2018. ["Turning psychology into policy: a case of square pegs and round holes?"](https://doi.org/10.1057/s41599-018-0159-8). *Palgrave Communications* 4: 108
 
 
 ## Week 3 (April 15/17): Randomized Controlled Trials
 
-[Intro piece]
+### Theory
 
-https://www.aeaweb.org/articles?id=10.1257/jep.31.4.73
+- Gertler, Paul J. et al. 2016. [*Impact Evaluation in Practice.*](https://openknowledge.worldbank.org/server/api/core/bitstreams/4659ef23-61ff-5df7-9b4e-89fda12b074d/content) Washington, DC: Inter-American Development Bank and World Bank. Chapters 3-4
 
-[Jae Yeon Kim application]
+- Rosenbaum, Paul. 2010. [*Design of Observational Studies.*](https://link.springer.com/book/10.1007/978-1-4419-1213-8) Springer. Chapter 2
 
-## Week 4 (April 22/24): Learning from Experimentation
+### Applications
 
-https://doi.org/10.1016/j.socscimed.2017.12.005
+<!-- Perhaps include/replace with something mor techie -->
 
-https://doi.org/10.1353/pbm.0.0088
+- Banerjee, Abhijit, Esther Duflo, and Garima Sharma. 2021. ["Long-Term Effects of the Targeting the Ultra Poor Program."](https://www.aeaweb.org/articles?id=10.1257/aeri.20200667) *American Economic Review: Insights* 3 (4): 471-486
 
-https://www.aeaweb.org/articles?id=10.1257/aer.20190830
+- Pennycook, Gordon, et al. 2021. ["Shifting attention to accuracy can reduce misinformation online."](https://doi.org/10.1038/s41586-021-03344-2) *Nature* 592: 590-595 (including the methods section)
 
-https://dx.doi.org/10.2139/ssrn.3648321
+- Kim, Jae Yeon, et al. 2025. "Administrative Checkpoints, Burdens, and Human-centered Design: Increasing Interview Access to Raise SNAP Participation." *Journal of Policy Analysis and Management* [URL coming soon]
 
-https://doi.org/10.31222/osf.io/ysv2u
 
+## Week 4 (April 22/24): Learning from Experiments
+
+### Theory
+
+- Deaton, Angus and Nancy Cartwright. 2018. ["Understanding and misunderstanding randomized controlled trials."](https://doi.org/10.1016/j.socscimed.2017.12.005) *Social Science & Medicine* 210: 2-21
+
+- Giacomini, Mita. 2009. ["Theory-Based Medicine and the Role of Evidence: Why the Emperor Needs New Clothes, Again."](https://doi.org/10.1353/pbm.0.0088) *Perspectives in Biology and Medicine* 52 (2): 234-251
+
+- Dubova, Marina, Arseny Moskvichev, and Kevin Zollman. 2023. ["Against theory-motivated experimentation in science."](https://doi.org/10.31222/osf.io/ysv2u) Working paper
+
+### Applications
+
+- Egami, Naoki, and Erin Hartman. 2023. ["Elements of External Validity: Framework, Design, and Analysis."](https://doi.org/10.1017/S0003055422000880) *American Political Science Review* 117 (3): 1070-1088 (skim mathematical details)
+
+- Banerjee, Abhijit, et al. 2017. ["From Proof of Concept to Scalable Policies: Challenges and Solutions, with an Application."](https://www.aeaweb.org/articles?id=10.1257/jep.31.4.73) *Journal of Economic Perspectives* 31 (4): 73-102
+
+- Corduneanu-Huci, Cristina, Michael T. Dorsch, and Paul Maarek. 2021. ["The politics of experimentation: Political competition and randomized controlled trials."](https://doi.org/10.1016/j.jce.2020.09.002) *Journal of Comparative Economics* 49 (1): 1-21
 
 ## Week 5 (April 29/May 1): Advanced Experimental Designs
+
+[Schedule TBD because maybe guest speaker]
+
+### Applications
+
+
+### Theory
+
 
 Topics will include:
 
@@ -124,9 +195,22 @@ https://mollyow.shinyapps.io/adaptive/
 
 ## Week 6 (May 6/8): Data Science for Good
 
-[Maybe some chapters from ISL?]
+### Theory
 
-https://doi.org/10.1146/annurev-polisci-090216-023229
+- Brady, Henry. 2019. ["The Challenge of Big Data and Data Science."](https://doi.org/10.1146/annurev-polisci-090216-023229) *Annual Review of Political Science* 22: 297-323
+
+- Agrawal, Ajay, Joshua Gans, and Avi Goldfarb. 2018. [*Prediction Machines: The Simple Economics of Artificial Intelligence.*](https://github.com/Chandra0505/Data-Science-Resources/blob/master/machine-learning/Prediction%20Machines-The%20Simple%20Economics%20of%20Artificial%20Intelligence%20by%20Ajay%20Agrawal.pdf) Harvard Business Review Press. Chapters 1-11 (easy to read) 
+
+
+
+
+### Applications
+
+
+
+https://doi.org/10.1111/1748-8583.12090 [or next week?]
+
+https://doi.org/10.1177/23794607241308636
 
 <!-- Olivella tree based methods in political science  -->
 
@@ -135,6 +219,10 @@ https://doi.org/10.1126/science.aaf7894
 
 
 ## Week 7 (May 13/15): Data Science for Evil
+
+https://doi.org/10.1177/23794607241296686
+
+https://doi.org/10.1177/23794607241300788
 
 https://doi.org/10.1093/jla/laz001
 
@@ -163,6 +251,7 @@ https://doi.org/10.1257%2Fjep.38.2.181
 
 https://doi.org/10.1093/jla/laz001 [Here or elsewhere?]
 
+https://doi.org/10.48550/arXiv.2403.07031
 
 
 ## Week 9 (May 27/29): Generative AI
@@ -176,6 +265,10 @@ https://doi.org/10.1038/s41562-023-01589-7
 https://doi.org/10.1073/pnas.2318127122 Maybe?
 
 https://www.journals.uchicago.edu/doi/10.1086/735504
+
+https://doi.org/10.48550/arXiv.2311.08527
+
+https://doi.org/10.1177/23794607241311793
 
 ## Week 10 (June 3/5): WCAS Reading Week Starts on June 4
 
