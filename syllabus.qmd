@@ -140,11 +140,9 @@ This course follows the [Northwestern University Syllabus Standards](https://www
 
 ### Applications
 
-<!-- Perhaps include/replace with something mor techie -->
+- Wilson, Kevin H. et al. 2024. ["A randomized controlled trial evaluating the effects of nurse-led triage of 911 calls."](https://doi.org/10.1038/s41562-024-01889-6) *Nature Human Behaviour* 8: 1276-1284
 
 - Banerjee, Abhijit, Esther Duflo, and Garima Sharma. 2021. ["Long-Term Effects of the Targeting the Ultra Poor Program."](https://www.aeaweb.org/articles?id=10.1257/aeri.20200667) *American Economic Review: Insights* 3 (4): 471-486
-
-- Pennycook, Gordon, et al. 2021. ["Shifting attention to accuracy can reduce misinformation online."](https://doi.org/10.1038/s41586-021-03344-2) *Nature* 592: 590-595 (including the methods section)
 
 - Kim, Jae Yeon, et al. 2025. "Administrative Checkpoints, Burdens, and Human-centered Design: Increasing Interview Access to Raise SNAP Participation." *Journal of Policy Analysis and Management* [URL coming soon]
 
@@ -169,31 +167,28 @@ This course follows the [Northwestern University Syllabus Standards](https://www
 
 ## Week 5 (April 29/May 1): Advanced Experimental Designs
 
-[Schedule TBD because maybe guest speaker]
-
 ### Applications
 
+- Blair, Graeme, et al. 2021. ["Community policing does not build citizen trust in police or reduce crime in the Global South."](https://doi.org/10.1126/science.abd3446) *Science* 374 (6571): eabd3446
 
-### Theory
+- Slough, Tara, et al. 2021. ["Adoption of community monitoring improves common pool resource management across contexts."](https://doi.org/10.1073/pnas.2015367118) *Proceedings of the National Academi of Sciences* 118 (29): e2015367118
+
+- Pennycook, Gordon, et al. 2021. ["Shifting attention to accuracy can reduce misinformation online."](https://doi.org/10.1038/s41586-021-03344-2) *Nature* 592: 590-595 (including the methods section)
+
+- Lindon, Michael, et al. 2024. ["Sequential A/B Testing Keeps the World Streaming Netflix Part 1: Continuous Data."](https://netflixtechblog.com/sequential-a-b-testing-keeps-the-world-streaming-netflix-part-1-continuous-data-cba6c7ed49df) Netflix TechBlog
+
+- Lindon, Michael, et al. 2024. ["Sequential A/B Testing Keeps the World Streaming Netflix Part 2: Counting Processes."](https://netflixtechblog.com/sequential-testing-keeps-the-world-streaming-netflix-part-2-counting-processes-da6805341642) Netflix TechBlog
 
 
-Topics will include:
+### Guest lecture on adaptive experimentation ([Molly Offer-Westort](https://mollyow.github.io), University of Chicago)
 
-- Adjusting treatment effects to population
+- Offer-Westort, Molly, Leah R. Rosenzweig, and Susan Athey. 2024. ["Battling the coronavirus 'infodemic' among social media users in Kenya and Nigeria."](https://doi.org/10.1038/s41562-023-01810-7) *Nature Human Behaviour* 8: 823-834
 
-- Coordinated trials
+- Offer-Westort, Molly, Alexander Coppock, and Donald P. Green. 2021. ["Adaptive Experimental Design: Prospects and Applications in Political Science."](https://doi.org/10.1111/ajps.12597) *American Journal of Political Science* 65 (4): 826-844
 
-- Staggered adoption
+- Offer-Westort, Molly, Vitor Hadad, and Susan Athey. ["Adaptive experimentation tutorial."](https://mollyow.shinyapps.io/adaptive/)
 
-- Adaptive-experimentation
-
-https://www.nature.com/articles/s41562-023-01810-7
-
-https://onlinelibrary.wiley.com/doi/10.1111/ajps.12597
-
-https://mollyow.shinyapps.io/adaptive/
-
-## Week 6 (May 6/8): Data Science for Good
+## Week 6 (May 6/8): Data Science to Help
 
 ### Theory
 
@@ -201,24 +196,24 @@ https://mollyow.shinyapps.io/adaptive/
 
 - Agrawal, Ajay, Joshua Gans, and Avi Goldfarb. 2018. [*Prediction Machines: The Simple Economics of Artificial Intelligence.*](https://github.com/Chandra0505/Data-Science-Resources/blob/master/machine-learning/Prediction%20Machines-The%20Simple%20Economics%20of%20Artificial%20Intelligence%20by%20Ajay%20Agrawal.pdf) Harvard Business Review Press. Chapters 1-11 (easy to read) 
 
+### Applications
+
+- Neal, Jean, et al. 2016. ["Combining stallite imagery and machine learning to predict poverty."](https://doi.org/10.1126/science.aaf7894) *Science* 353 (6301): 790-794
+
+- Camp, Nicholas P. et al. 2024. ["Leveraging body-worn camera footage to assess the effects of training on officer communication during traffic stops."](https://doi.org/10.1093/pnasnexus/pgae359) *PNAS Nexus* 3 (9): pgae359
+
+- [ONE MORE MAYBE TEXT/AUDIO DATA RELATED]
+
+- Or this: https://doi.org/10.1162/99608f92.db1aba8b
 
 
+## Week 7 (May 13/15): Data Science to Harm
+
+### Theory
 
 ### Applications
 
-
-
-https://doi.org/10.1111/1748-8583.12090 [or next week?]
-
-https://doi.org/10.1177/23794607241308636
-
-<!-- Olivella tree based methods in political science  -->
-
-https://doi.org/10.1126/science.aaf7894
-
-
-
-## Week 7 (May 13/15): Data Science for Evil
+https://doi.org/10.1111/1748-8583.12090 [HR]
 
 https://doi.org/10.1177/23794607241296686
 
@@ -235,8 +230,12 @@ https://doi.org/10.1038%2Fs41586-020-03136-0
 
 https://mbosley.github.io/papers/ai-prejudice-paper.pdf
 
+https://osf.io/fx8rj [Rats gone wrong]
+
 
 ## Week 8 (May 20/22): AI and Experiments
+
+https://doi.org/10.1093/pnasnexus/pgae359 [camera footage]
 
 <!-- Algorithmic bias/fairness -->
 https://doi.org/10.1126/sciadv.aao5580
@@ -258,6 +257,10 @@ https://doi.org/10.48550/arXiv.2403.07031
 
 <!-- Super fancy stuff  -->
 
+https://doi.org/10.48550/arXiv.2412.15060
+
+https://arxiv.org/abs/2410.19202
+
 https://www.jstor.org/stable/23566518 (or more recent triple machine learning stuff)
 
 https://doi.org/10.1038/s41562-023-01589-7
@@ -269,6 +272,8 @@ https://www.journals.uchicago.edu/doi/10.1086/735504
 https://doi.org/10.48550/arXiv.2311.08527
 
 https://doi.org/10.1177/23794607241311793
+
+https://doi.org/10.1080/00323187.2024.2335471
 
 ## Week 10 (June 3/5): WCAS Reading Week Starts on June 4
 
