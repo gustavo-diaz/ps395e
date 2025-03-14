@@ -27,9 +27,22 @@ fontsize: 12pt
 
 This seminar explores how evidence generated from statistical research methods can be used to inform decision-making in academia, government, and industry. We will examine the merits and pitfalls of contemporary tools in experimentation and data science when it comes to policy evaluation or or justifying organizational change. We will learn that connecting evidence to decisions often requires additional language and argumentation, which will lead us to more advanced techniques designed specifically to inform decision-making with minimal assumptions.
 
-## Topics
+# Content
 
-[HERE TABLE WITH LINKS TO EACH WEEK]
+| **Week** | **Dates** | **Topic** |
+|--: | :----- | :------------- |
+| 1 | Thursday, April 3 | [Preliminaries](#w1) |
+| 2 | April 8/10 | [The Evidence-Informed Movement](#w2)
+| 3 | April 15/17 | [Randomized Controlled Trials](#w3)
+| 4 | April 22/24 | [Learning from Experiments](#w4)
+| 5 | April 29/May 1 | [Advanced Experimental Designs](#w5)
+| 6 | May 6/8 | [Data Science to Help](#w6)
+| 7 | May 13/15 | [Data Science to Harm](#w7)
+| 8 | May 20/22 | [AI and Experiments](#w8)
+| 9 | May 27/29 | [Large Language Models](#w9)
+| 10 | Tuesday, June 3 | [Final Project Discussion](#w10)
+
+{{< pagebreak >}}
 
 # Learning Objectives
 
@@ -60,20 +73,40 @@ Your final grade in this course will depend on the following:
 
 - Participation
 
-- Discussion leading
+- Discussion memos (due Mondays 9 AM)
 
-- Discussion memos
+- Final project: Pre-registration plan OR data exploration paper (due June 11, 11:59 PM)
 
-- Final project: Pre-registration plan OR data exploration paper
+
+## Participation
+
+This course does not require attendance, but active engagement is a key component of a successful research seminar. Generally, that means attending class meetings regularly, doing the reading, asking questions, and working to foster a productive learning environment.
+
+Beyond general guidelines, this course also has two specific avenues for participation.
+
+1. **Leading class notes.** We will use collaboration tools to share our notes about the course material ahead of class meetings. Usually, one of us will serve as a discussion lead (either for a specific reading or for the whole week, depending on our collective preference). The lead will write a summary of their assigned piece(s) and propose talking points.
+
+2. **Commenting on class notes.** On the weeks/readings that you are not leading the note-taking, you will contribute to the notes by including annotations with comments, questions, and additional talking points.
+
+We will discuss additional details and expectations around participation during our first meeting. The general idea is to facilitate covering technical material in sufficient breadth and depth by combining division of labor with accountability.
+
+## Discussion memos
+
+On weeks of your choosing, you will write a document summarizing the key takeaways from our class meeting discussion of the material. The goal of this assignment is to facilitate more extensive reflection and expression than what is usually afforded by the conventional class structure.
+
+[Length. guiding questions]
+
+[Due on Mondays AFTER the corresponding week ]
+
+## Final project
+
+### Pre-registration plan
+
+### Data exploration paper
 
 <!-- OSF prereg template -->
 <!-- https://docs.google.com/document/d/1DaNmJEtBy04bq1l5OxS4JAscdZEkUGATURWwnBKLYxk/edit?tab=t.0 -->
 
-## Participation
-
-## Discussion leading
-
-## Discussion memos
 
 # Grading
 
@@ -93,11 +126,8 @@ This course follows the [Northwestern University Syllabus Standards](https://www
 
 # Schedule
 
-<!-- People analytics class at Stanford -->
-<!-- https://web.stanford.edu/~amirgo/teachmaterials/HRMGT%20203%20S19%20Course%20Description.pdf -->
-
 <!-- Save this because it also applies to ps210 -->
-## Week 1 (Thursday, April 3): Preliminaries
+## Week 1 (Thursday, April 3): Preliminaries {#w1}
 
 ### Watch before meeting
 
@@ -107,7 +137,7 @@ This course follows the [Northwestern University Syllabus Standards](https://www
 
 
 
-## Week 2 (April 8/10): The Evidence-Informed Movement
+## Week 2 (April 8/10): The Evidence-Informed Movement {#w2}
 
 <!-- Codex is not April 8 but I should be able to make it -->
 
@@ -130,7 +160,7 @@ This course follows the [Northwestern University Syllabus Standards](https://www
 - Walker, Carl, Ewen Speed, and Danny Taggart. 2018. ["Turning psychology into policy: a case of square pegs and round holes?"](https://doi.org/10.1057/s41599-018-0159-8). *Palgrave Communications* 4: 108
 
 
-## Week 3 (April 15/17): Randomized Controlled Trials
+## Week 3 (April 15/17): Randomized Controlled Trials {#w3}
 
 ### Theory
 
@@ -147,7 +177,7 @@ This course follows the [Northwestern University Syllabus Standards](https://www
 - Kim, Jae Yeon, et al. 2025. "Administrative Checkpoints, Burdens, and Human-centered Design: Increasing Interview Access to Raise SNAP Participation." *Journal of Policy Analysis and Management* [URL coming soon]
 
 
-## Week 4 (April 22/24): Learning from Experiments
+## Week 4 (April 22/24): Learning from Experiments {#w4}
 
 ### Theory
 
@@ -165,7 +195,7 @@ This course follows the [Northwestern University Syllabus Standards](https://www
 
 - Corduneanu-Huci, Cristina, Michael T. Dorsch, and Paul Maarek. 2021. ["The politics of experimentation: Political competition and randomized controlled trials."](https://doi.org/10.1016/j.jce.2020.09.002) *Journal of Comparative Economics* 49 (1): 1-21
 
-## Week 5 (April 29/May 1): Advanced Experimental Designs
+## Week 5 (April 29/May 1): Advanced Experimental Designs {#w5}
 
 ### Applications
 
@@ -182,99 +212,94 @@ This course follows the [Northwestern University Syllabus Standards](https://www
 
 ### Guest lecture on adaptive experimentation ([Molly Offer-Westort](https://mollyow.github.io), University of Chicago)
 
-- Offer-Westort, Molly, Leah R. Rosenzweig, and Susan Athey. 2024. ["Battling the coronavirus 'infodemic' among social media users in Kenya and Nigeria."](https://doi.org/10.1038/s41562-023-01810-7) *Nature Human Behaviour* 8: 823-834
+- Offer-Westort, Molly and Leah R. Rosenzweig. 2025. ["Conversations with a concern-addressing chatbot increase COVID-19 vaccination intenations among social media users in Kenya and Nigeria."](https://doi.org/10.1086/735504) *Journal of Politics*
 
 - Offer-Westort, Molly, Alexander Coppock, and Donald P. Green. 2021. ["Adaptive Experimental Design: Prospects and Applications in Political Science."](https://doi.org/10.1111/ajps.12597) *American Journal of Political Science* 65 (4): 826-844
 
 - Offer-Westort, Molly, Vitor Hadad, and Susan Athey. ["Adaptive experimentation tutorial."](https://mollyow.shinyapps.io/adaptive/)
 
-## Week 6 (May 6/8): Data Science to Help
+## Week 6 (May 6/8): Data Science to Help {#w6}
 
 ### Theory
 
-- Brady, Henry. 2019. ["The Challenge of Big Data and Data Science."](https://doi.org/10.1146/annurev-polisci-090216-023229) *Annual Review of Political Science* 22: 297-323
+- Grimmer, Justin, Margaret E. Roberts, and Brandon M. Stewart. 2021. ["Machine Learning for Social Science: An Agnostic Approach."](https://doi.org/10.1146/annurev-polisci-053119-015921) *Annual Review of Political Science* 24: 395-419
 
 - Agrawal, Ajay, Joshua Gans, and Avi Goldfarb. 2018. [*Prediction Machines: The Simple Economics of Artificial Intelligence.*](https://github.com/Chandra0505/Data-Science-Resources/blob/master/machine-learning/Prediction%20Machines-The%20Simple%20Economics%20of%20Artificial%20Intelligence%20by%20Ajay%20Agrawal.pdf) Harvard Business Review Press. Chapters 1-11 (easy to read) 
 
+
+
 ### Applications
 
-- Neal, Jean, et al. 2016. ["Combining stallite imagery and machine learning to predict poverty."](https://doi.org/10.1126/science.aaf7894) *Science* 353 (6301): 790-794
+- Neal, Jean et al. 2016. ["Combining stallite imagery and machine learning to predict poverty."](https://doi.org/10.1126/science.aaf7894) *Science* 353 (6301): 790-794
 
-- Camp, Nicholas P. et al. 2024. ["Leveraging body-worn camera footage to assess the effects of training on officer communication during traffic stops."](https://doi.org/10.1093/pnasnexus/pgae359) *PNAS Nexus* 3 (9): pgae359
+- Bansak, Kirk et al. 2018. ["Improving refugee integration through data-drivel algorithmic assignment."](https://doi.org/10.1126/science.aao4408) *Science* 359 (6373): 325-329
 
-- [ONE MORE MAYBE TEXT/AUDIO DATA RELATED]
+- Hangartner, Dominik, Daniel Kopp, and Michael Siegenthaler. 2021. ["Monitoring hiring discrimination through online recruitment platforms."](https://doi.org/10.1038/s41586-020-03136-0) *Nature* 589: 572-576
 
-- Or this: https://doi.org/10.1162/99608f92.db1aba8b
+- Ash, Elliott, Sergio Galletta, and Tommaso Giommoni. 2025. ["A Machine Learning Approach to Analyze and Support Anti-Corruption Policy."](https://dx.doi.org/10.2139/ssrn.3589545) *American Economic Journal: Economic Policy*
 
 
-## Week 7 (May 13/15): Data Science to Harm
+## Week 7 (May 13/15): Data Science to Harm {#w7}
+
+### Applications
+
+- Casey, Petec C., Kevin H. Wilson, and David Yokum. 2018. ["A Cautionary Tail: A Framework and Case Study for Testing Predictive Model Validity."](https://doi.org/10.48550/arXiv.1807.03860)
+
+- Dressel, Julia and Hany Farid. 2018. ["The accuracy, fairness, and limits of predicting recidivism."](https://doi.org/10.1126/sciadv.aao5580) *Science Advances* 4 (1): eaao5580
+
+- Angrave, David, et al. 2016. ["HR and analytics: Why HR is set to fail the big data challenge."](https://doi.org/10.1111/1748-8583.12090) *Human Resource Management Journal* 26 (1): 1-11
+
+- Dellaert, Benedict G.C., Tom Baker, and Eric J. Johnson. 2024. ["Regulating robo-advice for consumers' financial decisions: The interplay between algortihm quality & digital choice architecture."](https://doi.org/10.1177/23794607241296686) *Behavioral Science & Policy*
+
+
+
 
 ### Theory
 
+- Kleinberg, Jon, et al. 2018. ["Discrimination in the Age of Algorithms."](https://doi.org/10.1093/jla/laz001) *Journal of Legal Analysis* 10: 113-174
+
+- Suresh, Harini and John Guttag. 2021. ["A Framework for Understanding Sources of Harm throughout the Machine Learning Life Cycle."](https://doi.org/10.1145/3465416.3483305) *EAAMO '21: Proceedings of the 1st ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization* 
+
+- Lopez, Paola. 2021. ["Bias does not equal bias: a socio-technical typology of bias in data-based algorithmic systems."](https://doi.org/10.14763/2021.4.1598) *Internet Policy Review* 10 (4)
+
+- Imai, Kosuke and Zhichao Jiang. 2023. ["Principal Fairness for Human and Algorithmic Decision-Making."](https://doi.org/10.1214/22-STS872) *Statistical Science* 38 (2): 317-328
+
+
+## Week 8 (May 20/22): AI and Experiments {#w8}
+
 ### Applications
 
-https://doi.org/10.1111/1748-8583.12090 [HR]
+- Dietrich, Bryce J. and Melissa L. Sands. 2023. ["Seeing racial avoidance on New York City Streets."](https://doi.org/10.1038/s41562-023-01589-7) *Nature Human Behaviour* 7: 1275-1281
 
-https://doi.org/10.1177/23794607241296686
+- Camp, Nicholas P. et al. 2024. ["Leveraging body-worn camera footage to assess the effects of training on officer communication during traffic stops."](https://doi.org/10.1093/pnasnexus/pgae359) *PNAS Nexus* 3 (9): pgae359
 
-https://doi.org/10.1177/23794607241300788
+- Imai, Kosuke et al. 2023. ["Experimental evaluation of algorithm-assisted human decision-making: Application to pretrial public safety assessment."](https://doi.org/10.1093/jrsssa/qnad010) *Journal of the Royal Statistical Society Series A: Statistics in Society* 186 (2): 167-189
 
-https://doi.org/10.1093/jla/laz001
+### Theory
 
-<!-- [Imai paper on helping judges make decisions] -->
-https://doi.org/10.1126/science.aaf7894
+- Athey, Susan and Guido W. Imbens. 2019. ["Machine Learning Methods That Economists Should Know About."](https://doi.org/10.1146/annurev-economics-080217-053433) *Annual Review of Economics* 11: 685-725
 
-https://doi.org/10.1126/science.aao4408
+- Brand, Jennie E., Xiang Zhou, and Yu Xie. 2023. ["Recent Developments in Causal Inference and Machine Learning."](https://doi.org/10.1146/annurev-soc-030420-015345) *Annual Revew of Sociology* 49: 81-110
 
-https://doi.org/10.1038%2Fs41586-020-03136-0
+
+## Week 9 (May 27/29): Large Language Models {#w9}
+
+[Schedule TBD depending on guest speaker]
 
 https://mbosley.github.io/papers/ai-prejudice-paper.pdf
 
-https://osf.io/fx8rj [Rats gone wrong]
-
-
-## Week 8 (May 20/22): AI and Experiments
-
-https://doi.org/10.1093/pnasnexus/pgae359 [camera footage]
-
-<!-- Algorithmic bias/fairness -->
-https://doi.org/10.1126/sciadv.aao5580
-
-https://doi.org/10.3217%2F978-3-85125-668-0-16
-
-https://doi.org/10.1080/0960085X.2021.1960905
-
-https://doi.org/10.1257%2Fjep.38.2.201
-
-https://doi.org/10.1257%2Fjep.38.2.181
-
-https://doi.org/10.1093/jla/laz001 [Here or elsewhere?]
-
-https://doi.org/10.48550/arXiv.2403.07031
-
-
-## Week 9 (May 27/29): Generative AI
-
-<!-- Super fancy stuff  -->
+https://elliottash.com/wp-content/uploads/2025/03/Ash-Galletta-Opocher-BallotBot-AI-Strengthen-Democracy.pdf
 
 https://doi.org/10.48550/arXiv.2412.15060
 
 https://arxiv.org/abs/2410.19202
 
-https://www.jstor.org/stable/23566518 (or more recent triple machine learning stuff)
-
-https://doi.org/10.1038/s41562-023-01589-7
-
-https://doi.org/10.1073/pnas.2318127122 Maybe?
-
-https://www.journals.uchicago.edu/doi/10.1086/735504
-
-https://doi.org/10.48550/arXiv.2311.08527
+https://doi.org/10.1017/pan.2023.2
 
 https://doi.org/10.1177/23794607241311793
 
 https://doi.org/10.1080/00323187.2024.2335471
 
-## Week 10 (June 3/5): WCAS Reading Week Starts on June 4
+## Week 10 (Tuesday, June 3): Final Project Discussion {#w10}
 
-TBD Depending on updates schedule
+WCAS Reading Week Starts on June 4
