@@ -25,7 +25,7 @@ fontsize: 12pt
 
 # Course Overview
 
-This seminar explores how evidence generated from statistical research methods can be used to inform decision-making in academia, government, and industry. We will examine the merits and pitfalls of contemporary tools in experimentation and data science when it comes to policy evaluation or or justifying organizational change. We will learn that connecting evidence to decisions often requires additional language and argumentation, which will lead us to more advanced techniques designed specifically to inform decision-making with minimal assumptions.
+This seminar explores how evidence generated from statistical research methods can be used to inform decision-making in academia, government, and industry. We will examine the merits and pitfalls of contemporary tools in experimentation and data science when it comes to evaluating policy or justifying organizational change. We will learn that connecting evidence to decisions often requires additional language and argumentation, which will lead us to more advanced techniques designed specifically to inform decision-making with minimal assumptions.
 
 # Content
 
@@ -65,8 +65,6 @@ There is **no required textbook** for this course. Instead, readings for each ar
 
 Readings for each week are divided by **theory** and **applications** of the methods, techniques, approaches, or issues we will discuss that week. In some weeks, we will discuss the theory first and applications second. In weeks in which the technical details are more dense, we will discuss applications first and theory second.
 
-Since we are a small group, we can discuss division of labor arrangements to make sure that every reading is covered in extensive detail. You are still expected to be (at least) familiar with every assigned reading.
-
 # Evaluation
 
 Your final grade in this course will depend on the following: 
@@ -90,29 +88,37 @@ Beyond general guidelines, this course also has two specific avenues for partici
 
 We will discuss additional details and expectations around participation during our first meeting. The general idea is to facilitate covering technical material in sufficient breadth and depth by combining division of labor with accountability.
 
+Your participation inside and outside the classroom will be marked as satisfactory or unsatisfactory by the end of the quarter. If your participation leans toward an unsatisfactory mark, I will notify you by the end of Week 6 and give you feedback on how to improve.
+
 ## Discussion memos
 
 On weeks of your choosing, you will write a document summarizing the key takeaways from our class meeting discussion of the material. The goal of this assignment is to facilitate more extensive reflection and expression than what is usually afforded by the conventional class structure.
 
-[Length. guiding questions]
+Discussion memos should be around 1,000-1,500 words. As a general template, the document should answer (1) What topics did we discuss and how are they important? (2) What were the main issues we discussed and why are they interesting/important/consequential? (3) To which areas of interesting is our discussion relevant? Give 2-3 examples.
 
-[Due on Mondays AFTER the corresponding week ]
+Discussion memos are due on Mondays at 9 AM **the week after** we discuss a topic and must be submitted on Canvas. Discussions memos will be marked as satisfactory or unsatisfactory. You may submit late discussion memos or resubmit those marked as unsatisfactory with instructor approval.
 
 ## Final project
 
-### Pre-registration plan
+As a final project, you will complete one of two assignments. In either case, your final project should be around 4,000 words and must be submitted on Canvas by June 11, 11:59 PM.
 
-### Data exploration paper
+### Pre-registration plan
 
 <!-- OSF prereg template -->
 <!-- https://docs.google.com/document/d/1DaNmJEtBy04bq1l5OxS4JAscdZEkUGATURWwnBKLYxk/edit?tab=t.0 -->
+
+[CONTINUE HERE]
+
+### Data exploration paper
+
+
 
 
 # Grading
 
 This course uses a labor-based grading agreement, commonly known as contract grading. In this course, instead of being given a final grade based on how “good” your submitted assignments are, your final grade will be based on the amount of work you put into the course. The goal is to decouple grades from performance and emphasize learning and effort.
 
-You will get
+You will get [contract grading baseline]
 
 
 
