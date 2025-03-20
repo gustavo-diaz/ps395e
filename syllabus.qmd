@@ -29,6 +29,11 @@ This seminar explores how evidence generated from statistical research methods c
 
 # Content
 
+```{=typst}
+#set align(center)
+```
+
+
 | **Week** | **Dates** | **Topic** |
 |--: | :----- | :------------- |
 | 1 | Thursday, April 3 | [Preliminaries](#w1) |
@@ -43,6 +48,10 @@ This seminar explores how evidence generated from statistical research methods c
 | 10 | Tuesday, June 3 | [Final Project Discussion](#w10)
 
 {{< pagebreak >}}
+
+```{=typst}
+#set align(left)
+```
 
 # Learning Objectives
 
