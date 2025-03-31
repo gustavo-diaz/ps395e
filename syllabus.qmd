@@ -109,32 +109,53 @@ Discussion memos are due on Mondays at 9 AM **the week after** we discuss a topi
 
 ## Final project
 
-As a final project, you will complete one of two assignments. In either case, your final project should be around 4,000 words and must be submitted on Canvas by June 11, 11:59 PM.
+As a final project, you will complete one of two assignments. In either case, your final project should be around 4,000 words and must be submitted on Canvas by June 11, 11:59 PM. Your final project can be marked as unsatisfactory, satisfactory, or outstanding.
 
 ### Pre-registration plan
 
 <!-- OSF prereg template -->
 <!-- https://docs.google.com/document/d/1DaNmJEtBy04bq1l5OxS4JAscdZEkUGATURWwnBKLYxk/edit?tab=t.0 -->
 
-[CONTINUE HERE]
+One option is to write a study pre-registration or pre-analysis plan. This document outlines the motivation and steps to follow to implement a future study to inform decision-making (broadly construed) in academia, policy, or industry. 
+
+Generally, the study should contain a study information section in which you introduce the problem, question, or decision-making problem, along with an explanation of what the proposed study would achieve. Then you would proceed to outline the plan for study implementation, data collection, analysis, and dissemination. You can read more about pre-analysis plans [here](https://doi.org/10.1073/pnas.1708274114). You can also use [this template](https://docs.google.com/document/d/1DaNmJEtBy04bq1l5OxS4JAscdZEkUGATURWwnBKLYxk/edit?tab=t.0) as a starting point.
 
 ### Data exploration paper
 
+If you have previous experience with data collection and analysis, you may also choose to write a data exploration paper. This document reports on the use of existing data to apply a new data analysis technique relevant to this class. The spirit of this document is to give yourself a chance to learn and internalize how to apply one or more techniques discussed in class (or related). 
 
+In general terms, this document would first explain how the technique works, what is generally used for, discuss the purported benefits and limitations in the literature, and explain why it is interesting or important to implement it with the data set you will you use. Then, the second half of the document would present a step by step illustration of how the method is applied with the data you chose.
+
+If you choose to write this assignment, you should also prepare replication materials so that anyone with access to them is able to reproduce your findings. We will discuss how to prepare such materials if it becomes relevant.
 
 
 # Grading
 
-This course uses a labor-based grading agreement, commonly known as contract grading. In this course, instead of being given a final grade based on how “good” your submitted assignments are, your final grade will be based on the amount of work you put into the course. The goal is to decouple grades from performance and emphasize learning and effort.
+This course uses a labor-based grading agreement, commonly known as contract grading. In this course, instead of being given a final grade based on how “good” your submitted assignments are, your final grade will be based on the amount of work you put into the course. The goal is to decouple grades from performance and emphasize learning and effort. Under contract grading, assignments are
 
-You will get [contract grading baseline]
+You will get the contract grading baseline grade of B+ if you achieve the following:
 
+- A satisfactory participation mark by the end of the quarter
+- Three discussion memos marked as satisfactory
+- A satisfactory mark in your final project
 
+Your grade can improve to an A- if you achieve one of the following:
 
+- Five discussion memos marked as satisfactory
+- An outstanding mark in your final project
 
-# Northwestern University Syllabus Standards
+To improve to an A, you  also need to achieve one of the following:
 
-This course follows the [Northwestern University Syllabus Standards](https://www.registrar.northwestern.edu/registration-graduation/northwestern-university-syllabus-standards.html). Students are responsible for familiarizing themselves with this information.
+- Both requirements listed to receive an A-
+- Seven discussion memos marked as satisfactory
+
+Your grade will go down if you fail to meet the contract grading baseline in the following ways:
+
+- Either participation or final project marked as unsatisfactory by the end of the term: C-
+
+- Both participation and final project marked as unsatisfactory: D
+
+- Discussion memo marked as unsatisfactory (if below the baseline contract grading requirement): half a letter grade deduction for each (e.g. A becomes A-, D becomes F)
 
 
 {{< pagebreak >}}
@@ -299,22 +320,30 @@ This course follows the [Northwestern University Syllabus Standards](https://www
 
 ## Week 9 (May 27/29): Large Language Models {#w9}
 
-[Schedule TBD depending on guest speaker]
+### Guest lecture on LLMs for research ([Mitchell Bosley](https://mbosley.github.io), University of Toronto)
 
-https://mbosley.github.io/papers/ai-prejudice-paper.pdf
+Readings TBD
 
-https://elliottash.com/wp-content/uploads/2025/03/Ash-Galletta-Opocher-BallotBot-AI-Strengthen-Democracy.pdf
+<!-- https://mbosley.github.io/papers/ai-prejudice-paper.pdf -->
 
-https://doi.org/10.48550/arXiv.2412.15060
+<!-- https://doi.org/10.1017/pan.2023.2 -->
 
-https://arxiv.org/abs/2410.19202
+<!-- https://doi.org/10.1177/23794607241311793 -->
 
-https://doi.org/10.1017/pan.2023.2
 
-https://doi.org/10.1177/23794607241311793
 
-https://doi.org/10.1080/00323187.2024.2335471
+### Applications
+
+- Palmer, Alexis, and Arthur Spirling. 2023. ["Large Language Models Can Argue in Convincing Ways About Politics, But Humans Dislike AI Authors: implications for Governance."](https://doi.org/10.1080/00323187.2024.2335471) *Political Science* 75 (3): 281-291
+
+- Brandt, Patrick T., et al. 2024. ["ConfliBERT: A Language Model for Political Conflict."](https://doi.org/10.48550/arXiv.2412.15060)
+
+- Ash, Elliott, Sergio Galletta, and Giacomo Opocher. 2025. ["BallotBot: Can AI Strengthen Democracy?"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5168217)
 
 ## Week 10 (Tuesday, June 3): Final Project Discussion {#w10}
 
 WCAS Reading Week Starts on June 4
+
+# Northwestern University Syllabus Standards
+
+This course follows the [Northwestern University Syllabus Standards](https://www.registrar.northwestern.edu/registration-graduation/northwestern-university-syllabus-standards.html). Students are responsible for familiarizing themselves with this information.
