@@ -20,7 +20,7 @@ fontsize: 12pt
 **Instructor:** Gustavo Diaz (he/him/his)  
 **Email:** <gustavo.diaz@northwestern.edu>  
 **Lecture:**  Tues/Thurs 2:00 – 3:20pm, Scott Hall 201 Ripton Room  
-**Canvas:** TBD  
+**Canvas:** <https://canvas.northwestern.edu/courses/230276>  
 **Student Hours:** Wednesday 2:00 -- 4:00pm, Scott Hall 103 or [by appointment](https://calendly.com/gustavo-diaz-nu/meetings)
 
 # Course Overview
