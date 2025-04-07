@@ -210,7 +210,7 @@ Your grade will go down if you fail to meet the contract grading baseline in the
 
 - Banerjee, Abhijit, Esther Duflo, and Garima Sharma. 2021. ["Long-Term Effects of the Targeting the Ultra Poor Program."](https://www.aeaweb.org/articles?id=10.1257/aeri.20200667) *American Economic Review: Insights* 3 (4): 471-486
 
-- Kim, Jae Yeon, et al. 2025. "Administrative Checkpoints, Burdens, and Human-centered Design: Increasing Interview Access to Raise SNAP Participation." *Journal of Policy Analysis and Management* [URL coming soon]
+- Kim, Jae Yeon, et al. 2025. ["Administrative Checkpoints, Burdens, and Human-centered Design: Increasing Interview Access to Raise SNAP Participation."](https://doi.org/10.1002/pam.70007) *Journal of Policy Analysis and Management*
 
 
 ## Week 4 (April 22/24): Learning from Experiments {#w4}
