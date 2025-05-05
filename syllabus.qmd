@@ -183,7 +183,7 @@ Your grade will go down if you fail to meet the contract grading baseline in the
 
 - Bowers, Jake and Paul Testa. 2019. ["Better Government, Better Science: The Promise of and Challenges Facing the Evidence-Informed Policy Movement."](https://doi.org/10.1146/annurev-polisci-050517-124041) *Annual Review of Political Science* 22: 521-542
 
-- Samii, Cyrus. 2023. ["Methodologies for 'Political Science as Problem Solving.'"](https://github.com/gustavo-diaz/ps395e/blob/main/readings/samii-polisci_problem_solving-2023-07-01.pdf) Forthcoming in *Oxford Handbook of Methodological Pluralism*
+- Samii, Cyrus. 2023. ["Methodologies for 'Political Science as Problem Solving.'"](https://uc8b1f92fe41d78ecfe58cbab3a6.dl.dropboxusercontent.com/cd/0/inline2/CnRTk5T2uLbvypnZlV2bGHXCrGvYAwH_ROD4Vhl16i5-vwJh1vFQ_H602W3vmS25DQ155PxY4qtLVeNtXJtamLCoWA3OrA0-vXQpE53pfdzZiisZt3eHb4DQbbSOl1lAaI4eZJxSulvge9woO9oaojv2kdeUPeTKbWNuegZ7yOlOkoQY14P2rCAGf2THUaVV_XV3Nm0JlibLPdAmN7V67ItFtJSiOnc0db1kp9zgF4cdK_u7oZ5BWeeEvxI7MQCVLkAPCQAD2DWfUUgomSAHiLhyFDQHKe1tuUZ5p_Eep2R7otOfWlCvIoMlJfpNf4EevgW6uAzbjtV9iHVefgjOloYfiv5KrZCgeFOa1fRJb7WTeoOmWkJw-eP7AS1N_583TQw/file#) Forthcoming in *Oxford Handbook of Methodological Pluralism*
 
 ### Applications
 
@@ -210,7 +210,7 @@ Your grade will go down if you fail to meet the contract grading baseline in the
 
 - Banerjee, Abhijit, Esther Duflo, and Garima Sharma. 2021. ["Long-Term Effects of the Targeting the Ultra Poor Program."](https://www.aeaweb.org/articles?id=10.1257/aeri.20200667) *American Economic Review: Insights* 3 (4): 471-486
 
-- Kim, Jae Yeon, et al. 2025. ["Administrative Checkpoints, Burdens, and Human-centered Design: Increasing Interview Access to Raise SNAP Participation."](https://doi.org/10.1002/pam.70007) *Journal of Policy Analysis and Management*
+- Kim, Jae Yeon, et al. 2025. "Administrative Checkpoints, Burdens, and Human-centered Design: Increasing Interview Access to Raise SNAP Participation." *Journal of Policy Analysis and Management* [URL coming soon]
 
 
 ## Week 4 (April 22/24): Learning from Experiments {#w4}
@@ -322,14 +322,13 @@ Your grade will go down if you fail to meet the contract grading baseline in the
 
 ### Guest lecture on LLMs for research ([Mitchell Bosley](https://mbosley.github.io), University of Toronto)
 
-Readings TBD
+- Bosley, Mitchell. 2025. ["Towards Qualitative Measurement at Scale: A Prompt-Engineering Framework for Large-Scale Analysis of Deliberative Quality in Parliamentary Debates."](https://mbosley.github.io/papers/dqi-paper-bosley.pdf) Forthcoming at the *Journal of Political Institutions and Political Economy*
 
-<!-- https://mbosley.github.io/papers/ai-prejudice-paper.pdf -->
+- Costello, Thomas H., Gordon Pennycook, and David G. Rand. 2024. ["Durably reducing conspiracy beliefs through dialogues with AI."](https://doi.org/10.1126/science.adq1814) *Science* 385 (6714): eadq1814
 
-<!-- https://doi.org/10.1017/pan.2023.2 -->
+- Crabtree, Charles, John Holbein, Mitchel Bosley, and Semra Sevi. 2025. ["Can AI Help Reduce Prejudice? Evaluating the Effectiveness of AI-Powered Personalized Persuasion on Support for Transgender Rights."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5229084)
 
-<!-- https://doi.org/10.1177/23794607241311793 -->
-
+- Park, Joon Sung, et al. 2024. ["Generative Agent Simulations of 1,000 People."](https://doi.org/10.48550/arXiv.2411.10109)
 
 
 ### Applications
